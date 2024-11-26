@@ -1,1 +1,4 @@
 transformers==4.46.3
+torch==2.4.1
+datasets==2.21.0
+matplotlib==3.9.2
